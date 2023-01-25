@@ -8,7 +8,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
   <a href="#-tecnologias">Tecnologias</a>     |    
   <a href="#-projeto">Projeto</a>     |    
   <a href="#-layout">Layout</a>     |    
-  <a href="#memo-licença">Licença</a>
+  <a href="#-memo--licença">Licença</a>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ O Habits é um app para ajudar a rastrear os hábitos.
 
 - [ Visite o projeto online ](https://feharakawa.github.io/nwl-setup/)
 
-## 🔖Layout
+## 🔖 Layout
 
 Você pode visualizar o layout do projeto através de [ DESSE LINK ](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [ Figma ](https://figma.com) para acessá-lo.
 
