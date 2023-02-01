@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com 🧡 por Rocketseat [ Participe da comunidade! ](https://discord.gg/rocketseat)
+Feito com 🧡 por Felipe Seidi Harakawa, durante o Evento NLW da Rocketseat. [ Participe da comunidade! ](https://discord.gg/rocketseat)
