@@ -1,4 +1,4 @@
-<h1 align="center"> Hábitos </h1>
+<h1 align="center">Hábitos</h1>
 
 <p align="center">
 NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -25,9 +25,11 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML
+- CSS
 - JavaScript
-- Git e Github
+- Git
+- Github
 - Figma
 - Visual Studio Code
 
